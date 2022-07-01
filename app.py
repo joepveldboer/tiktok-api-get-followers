@@ -4,9 +4,9 @@ import csv
 
 # Get your API key here: https://scraptik.com
 
-scraptik_apikey = ""
+scraptik_apikey = "cf6372f750msh00ad395f1987153p176b9fjsne142d72c1587"
 
-user_id = "6802299750194643973"
+user_id = "6840772391355876357"
 
 fieldnames = [
     'unique_id',
